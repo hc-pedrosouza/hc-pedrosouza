@@ -5,14 +5,15 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrohces&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-pedrohces.vercel.app/api/top-langs/?username=pedrohces&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
  &nbsp;
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohces)](https://github.com/pedrohces/github-readme-stats)
- 
+<div align="center">
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohces)](https://github.com/pedrohces/github-readme-stats)
+</div>
+
  &nbsp;
  &nbsp;
 
