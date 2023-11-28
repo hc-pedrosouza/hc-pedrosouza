@@ -1,17 +1,17 @@
-<!--img align="center" style="margin-bottom:100px" width=100% src="https://github.com/pedrohces/pedrohces/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" /-->
+<!--img align="center" style="margin-bottom:100px" width=100% src="https://github.com/hc-pedrosouza/hc-pedrosouza/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" /-->
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"><h3 align="center">Solucionando problemas com tecnologia</h3><br><br> <strong>Software Developer apaixonado por desenvolver soluções de forma ágil</strong> e grande curioso por segurança da informação. <br><p align="center">Atualmente focado em desenvolvimento web.</p> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pedrohces&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=hc-pedrosouza&theme=radical&mode=weekly" />
  </div>
  
  &nbsp;
  &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrohces" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hc-pedrosouza" />
 </div>
 
  &nbsp;
